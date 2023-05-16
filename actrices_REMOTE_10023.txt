@@ -1,8 +1,4 @@
 Scarlett Johansson
 Cara Delevingne
 Carrie Fisher
-<<<<<<< HEAD
-Daisy Ridley
-=======
 Sigouney Weaver
->>>>>>> test2
